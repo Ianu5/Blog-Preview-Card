@@ -23,8 +23,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Ianu5/Blog-Preview-Card)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: https://github.com/Ianu5/Blog-Preview-Card
+- Live Site URL: https://ianu5.github.io/Blog-Preview-Card/
 
 ## My process
 
