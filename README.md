@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/Screenshot.png)
 
 ### Links
 
@@ -39,10 +39,3 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Block Element Modifier
 - Flexbox
 - Mobile-first workflow
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
